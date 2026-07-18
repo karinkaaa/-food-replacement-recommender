@@ -97,9 +97,7 @@ def recommend(food_item, goal):
 # Интерфейс 
  
 st.title("Рекомендации по замене блюд")
-st.caption(
-    f"ML-проект: классификация + kNN · {len(df)} блюд, {df['Category'].nunique()} категорий · значения на 100г"
-)
+
  
 
  

@@ -1,7 +1,7 @@
 
 
 import pandas as pd
-from io import StringIO
+from io import StringIO 
 
 RAW_DATA = """Food_Item,Category,Calories (kcal),Protein (g),Carbohydrates (g),Fat (g),Fiber (g),Sugars (g),Sodium (mg),Meal_Type
 Борщ,Суп,50,2.8,5.2,2.0,1.2,2.0,480,Обед
